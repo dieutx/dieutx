@@ -1,5 +1,16 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dieutx&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![image](https://github.com/user-attachments/assets/16bd0566-e1ea-40b8-82d5-82824a831512) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dieutx&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieutx&theme=nightowl&show_icons=true&hide_border=true&layout=compact">
+</p>
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=dieutx&theme=nightowl&hide_border=true)
+<p align="center">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieutx&theme=nightowl&show_icons=true&hide_border=true&layout=compact">
+</p>
+
+<p align="center">
+    <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=dieutx&theme=nightowl&hide_border=true">
+</p>
+
+![image](https://github.com/user-attachments/assets/74acc937-aa7f-4647-bbe5-0b8f8ba321e1)
+
